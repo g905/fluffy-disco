@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 6" width="11" height="6">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.561;fill: none;stroke: #ffffff;stroke-width: 2 } 
+	</style>
+	<path id="dropdown.png" class="shp0" d="M10.99,5.72l-5.49,-5.71l-5.49,5.71" />
+</svg>
